@@ -1,32 +1,36 @@
-PROGONT:
+PROGONT:(Kevin) (Tom)
 - In afwachting van Lennert
 
-Burgerschap:
+Burgerschap:(kevin) (Tom)
 - In het boek werken
 
 Databases:
 - Afgerond.
 
-Engels:
-- Afgerond
+Engels: (kevin) (Tom)
+- Afgerond (presentatie)
+- Online
 
 Mentoraat en LOB:
-- Meeting 27-03-2020 09:30
+- Meeting 27-03-2020 09:00
 
-Nederlands:
+Nederlands: (Kevin) (Tom)
 - Online
 
-PHP Webapplicatie:
+PHP Webapplicatie:(Kevin) (Tom)
 - Inleveren van alle opdrachten (lmao)
 
-Rekenen:
+Rekenen: (Kevin) (Tom)
 - Online
 
-Simultatie AMO:
+Simultatie AMO: (kevin) (Tom)
 - Website, wordt aan gewerkt.
 
 Simulatie Engels:
 - Afgerond
 
-WordPress:
+WordPress: (kevin) (Tom)
 - 06 maken voor woensdag
+
+Innovatie (Kevin)
+- opdracht
